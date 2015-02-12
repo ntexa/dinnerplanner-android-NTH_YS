@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DinnerPlanner</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Header">Dinner Planner</string>
+    <string name="msg_home_1">Welcome to Dinner Planner!</string>
+    <string name="msg_main_2">Here you will be able to easily plan your dinner.</string>
+    <string name="msg_main_3">On the next page start by selecting the number of participants.</string>
+    <string name="mssg_main_4">Then select your courses.</string>
+    <string name="msg_main_4">Watch magic happen!</string>
+    <string name="Start">Start</string>
+    <string name="Participants">Participants:</string>
+    <string name="Cost">Total Cost:</string>
+
+</resources>
