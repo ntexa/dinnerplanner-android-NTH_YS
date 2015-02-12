@@ -13,5 +13,10 @@
     <string name="Start">Start</string>
     <string name="Participants">Participants:</string>
     <string name="Cost">Total Cost:</string>
+    <string name="Create">Create</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="title_activity_choose_menu_activity">ChooseMenu_activity</string>
+    <string name="title_activity_dish_description_activity">DishDescription_activity</string>
+    <string name="title_activity_ingredient_view_activity">IngredientView_activity</string>
 
 </resources>
