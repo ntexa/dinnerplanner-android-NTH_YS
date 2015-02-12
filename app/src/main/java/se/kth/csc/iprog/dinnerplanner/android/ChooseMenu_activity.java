@@ -5,8 +5,9 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
+
 import android.app.Application;
-import se.kth.csc.iprog.dinnerplanner.model.DinnerModel;
+import java.lang.Override;import se.kth.csc.iprog.dinnerplanner.model.DinnerModel;
 
 
 public class ChooseMenu_activity extends Activity {

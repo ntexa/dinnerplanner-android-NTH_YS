@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import se.kth.csc.iprog.dinnerplanner.android.R;
 
 public class DishDescription_activity extends Activity {
 
